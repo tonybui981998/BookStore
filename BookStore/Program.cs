@@ -1,4 +1,6 @@
 ﻿using BookStore.Data;
+using BookStore.Repository;
+using BookStore.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +15,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         new MySqlServerVersion(new Version(8, 0, 21)) // Điều chỉnh phiên bản MySQL của bạn tại đây
     )
 );
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
 
@@ -33,6 +36,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern:  "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
