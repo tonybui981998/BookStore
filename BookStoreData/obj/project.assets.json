@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreData\\BookStoreData.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreData\\BookStoreData.csproj",
       "projectName": "BookStoreData",
-      "projectPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreData\\BookStoreData.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreData\\BookStoreData.csproj",
       "packagesPath": "C:\\Users\\tonybui\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreData\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tonybui\\AppData\\Roaming\\NuGet\\NuGet.Config",

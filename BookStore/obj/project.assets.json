@@ -4123,11 +4123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStore\\BookStore.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\BookStore\\BookStore\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStore\\BookStore.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\BookStore\\BookStore\\BookStore.csproj",
       "packagesPath": "C:\\Users\\tonybui\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStore\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\BookStore\\BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tonybui\\AppData\\Roaming\\NuGet\\NuGet.Config",

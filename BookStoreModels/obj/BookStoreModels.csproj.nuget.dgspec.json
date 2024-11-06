@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreModels\\BookStoreModels.csproj": {}
+    "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreModels\\BookStoreModels.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreModels\\BookStoreModels.csproj": {
+    "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreModels\\BookStoreModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreModels\\BookStoreModels.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreModels\\BookStoreModels.csproj",
         "projectName": "BookStoreModels",
-        "projectPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreModels\\BookStoreModels.csproj",
+        "projectPath": "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreModels\\BookStoreModels.csproj",
         "packagesPath": "C:\\Users\\tonybui\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreModels\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonybui\\AppData\\Roaming\\NuGet\\NuGet.Config",

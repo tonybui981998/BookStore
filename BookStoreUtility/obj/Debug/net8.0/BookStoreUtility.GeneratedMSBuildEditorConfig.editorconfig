@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookStoreUtility
-build_property.ProjectDir = \\Mac\Home\Documents\NETBookStore-master\BookStoreUtility\
+build_property.ProjectDir = \\Mac\Home\Documents\BookStore\BookStoreUtility\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

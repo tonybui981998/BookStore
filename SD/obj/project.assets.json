@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\SD\\SD.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\BookStore\\SD\\SD.csproj",
       "projectName": "SD",
-      "projectPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\SD\\SD.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\BookStore\\SD\\SD.csproj",
       "packagesPath": "C:\\Users\\tonybui\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\SD\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\BookStore\\SD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tonybui\\AppData\\Roaming\\NuGet\\NuGet.Config",

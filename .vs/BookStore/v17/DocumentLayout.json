@@ -1,12 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\",
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95476F8D-9001-481B-B37E-502F16E89076}|SD\\SD.csproj|\\\\mac\\home\\documents\\netbookstore-master\\sd\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B675915-8A4B-4FF6-8C34-2C7287F3020E}|BookStore\\BookStore.csproj|\\\\mac\\home\\documents\\bookstore\\bookstore\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{662A74F1-BEEE-4755-8EBF-E6453F97F1BE}|BookStoreUtility\\BookStoreUtility.csproj|\\\\mac\\home\\documents\\netbookstore-master\\bookstoreutility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B675915-8A4B-4FF6-8C34-2C7287F3020E}|BookStore\\BookStore.csproj|\\\\mac\\home\\documents\\bookstore\\bookstore\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\documents\\netbookstore-master\\bookstoreutility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,28 +40,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\SD\\Class1.cs",
-              "RelativeDocumentMoniker": "SD\\Class1.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\SD\\Class1.cs",
-              "RelativeToolTip": "SD\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\BookStore\\BookStore\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\Repository.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\BookStore\\BookStore\\Repository\\Repository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T11:28:15.513Z",
+              "WhenOpened": "2024-11-06T03:45:40.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\BookStore\\BookStore\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "BookStore\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\BookStore\\BookStore\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "BookStore\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:07:44.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreUtility\\Class1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreUtility\\Class1.cs",
               "RelativeDocumentMoniker": "BookStoreUtility\\Class1.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\NETBookStore-master\\BookStoreUtility\\Class1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\BookStore\\BookStoreUtility\\Class1.cs",
               "RelativeToolTip": "BookStoreUtility\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T11:27:58.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T11:27:58.849Z"
             }
           ]
         },
