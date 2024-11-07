@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BookStore",
+    "\\BookStore\\Areas",
+    "\\BookStore\\Areas\\Admin",
+    "\\BookStore\\Areas\\Admin\\Views",
+    "\\BookStore\\Areas\\Admin\\Views\\Product",
+    "\\BookStore\\Controllers"
   ],
   "SelectedNode": "\\BookStore.sln",
   "PreviewInSolutionExplorer": false

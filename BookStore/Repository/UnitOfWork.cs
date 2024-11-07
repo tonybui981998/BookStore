@@ -9,14 +9,16 @@ namespace BookStore.Repository
         private ApplicationDbContext _db;
 
  
-        public ICategoryRepository Category { get; private set; }
+        public IProductRepository Product { get; private set; }
+        public ICategoryRepository Category {  get; private set; }  
 
-       // public ICategoryRepository Category => throw new NotImplementedException();
+        //public ICategoryRepository Category => throw new NotImplementedException();
 
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
             Category = new CategoryRepository(_db);
+            Product = new ProductRepository(_db);
         }
       
 
