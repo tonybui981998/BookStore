@@ -18,23 +18,23 @@ namespace BookStore.Models
 
         [Required]
         [Display(Name = "List-price")]
-        [Range(1,1000)] 
+        //[Range(1,1000)] 
         public Double ListPrice { get; set; }
 
         [Required]
         [Display(Name = "price for 1-50")]
-        [Range(1, 1000)]
+        //[Range(1, 1000)]
 
         public Double Price { get; set; }
         [Required]
         [Display(Name = "price for 50+")]
-        [Range(1, 1000)]
+        //[Range(1, 1000)]
         public Double Price50 { get; set; }
 
        
         [Required]
         [Display(Name = "price for 100+")]
-        [Range(1, 1000)]
+        //[Range(1, 1000)]
         public Double Price100 { get; set; }
     }
 }
